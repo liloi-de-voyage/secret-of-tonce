@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="koi8-u" ?>
-<story title="Загадка Тонсу" start="general">
+<story title="О©ҐО©ҐО©ҐО©ҐО©ҐО©ҐО©Ґ О©ҐО©ҐО©ҐО©ҐО©Ґ" start="general">
     <info />
     <tiles>
         <tile id="general" type="html">
-            <h1>Загадка Тонсу</h1>
+            <h1>О©ҐО©ҐО©ҐО©ҐО©ҐО©ҐО©Ґ О©ҐО©ҐО©ҐО©ҐО©Ґ</h1>
             <ul>
-                <li><a href="/novel-secret-at-tonce/road">Глава I. Дорога</a></li>
-                <li><a href="/novel-secret-at-tonce/cottage">Глава II. Коттедж Вчителя</a></li>
-                <li><a href="/novel-secret-at-tonce/library">Глава III. Бібліотека</a></li>
+                <li><a href="/novel-secret-of-tonce/road">О©ҐО©ҐО©ҐО©ҐО©Ґ I. О©ҐО©ҐО©ҐО©ҐО©ҐО©Ґ</a></li>
+                <li><a href="/novel-secret-of-tonce/cottage">О©ҐО©ҐО©ҐО©ҐО©Ґ II. О©ҐО©ҐО©ҐО©ҐО©ҐО©ҐО©Ґ О©ҐО©ҐО©ҐО©ҐО©ҐО©ҐО©Ґ</a></li>
+                <li><a href="/novel-secret-of-tonce/library">О©ҐО©ҐО©ҐО©ҐО©Ґ III. О©ҐО©ҐліО©ҐО©ҐО©ҐО©ҐО©Ґ</a></li>
             </ul>
         </tile>
     </tiles>
