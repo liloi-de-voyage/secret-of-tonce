@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="koi8-u" ?>
-<story title="������� �����" start="general">
+<?xml version="1.0" encoding="utf-8" ?>
+<story title="Загадка Тонса" start="general">
     <info />
     <tiles>
         <tile id="general" type="html">
-            <h1>������� �����</h1>
+            <h1>Загадка Тонса</h1>
             <ul>
-                <li><a href="/novel-secret-of-tonce/road">����� I. ������</a></li>
-                <li><a href="/novel-secret-of-tonce/cottage">����� II. ������� �������</a></li>
-                <li><a href="/novel-secret-of-tonce/library">����� III. ��̦�����</a></li>
+                <li><a href="/novel-secret-of-tonce/road">Глава I. Дорога</a></li>
+                <li><a href="/novel-secret-of-tonce/cottage">Глава II. Котедж Вчителя</a></li>
+                <li><a href="/novel-secret-of-tonce/library">Глава III. Бібліотека</a></li>
+                <li><a href="/novel-secret-of-tonce/hotel-room">Глава IV. Кімната готелю</a></li>
             </ul>
         </tile>
     </tiles>
