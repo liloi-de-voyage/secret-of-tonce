@@ -1,6 +1,7 @@
 <?php
 
 return [
+    'uid' => 'novel-secret-of-tonce',
     'application' => \Liloi\Umklaidet\Application::class,
     'parameter' => __DIR__ . '/Novel.story',
     'list' => [
