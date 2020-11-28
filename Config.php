@@ -11,5 +11,6 @@ return [
         'hotel-room' => __DIR__ . '/HotelRoom/Chapter.story',
         'cafe' => __DIR__ . '/Cafe/Chapter.story',
         'questionnaire' => __DIR__ . '/Questionnaire/Chapter.story',
+        'safety-engineering' => __DIR__ . '/SafetyEngineering/Chapter.story',
     ]
 ];
