@@ -9,5 +9,6 @@ return [
         'cottage' => __DIR__ . '/Cottage/Chapter.story',
         'library' => __DIR__ . '/Library/Chapter.story',
         'hotel-room' => __DIR__ . '/HotelRoom/Chapter.story',
+        'cafe' => __DIR__ . '/Cafe/Chapter.story',
     ]
 ];

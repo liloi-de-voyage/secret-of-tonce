@@ -9,6 +9,7 @@
                 <li><a href="/novel-secret-of-tonce/cottage">Глава II. Котедж Вчителя</a></li>
                 <li><a href="/novel-secret-of-tonce/library">Глава III. Бібліотека</a></li>
                 <li><a href="/novel-secret-of-tonce/hotel-room">Глава IV. Кімната готелю</a></li>
+                <li><a href="/novel-secret-of-tonce/cafe">Глава V. Кафе</a></li>
             </ul>
         </tile>
     </tiles>
