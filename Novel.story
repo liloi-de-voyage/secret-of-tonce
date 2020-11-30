@@ -12,7 +12,8 @@
                 <li><a href="/novel-secret-of-tonce/cafe">Глава V. Кафе</a></li>
                 <li><a href="/novel-secret-of-tonce/questionnaire">Глава VI. Анкета</a></li>
                 <li><a href="/novel-secret-of-tonce/safety-engineering">Глава VII. Техніка безпеки</a></li>
-                <li><a href="/novel-secret-of-tonce/morning">Глава VIII. Ранок</a></li>
+                <li><a href="/novel-secret-of-tonce/cyborg">Глава VIII. Техніка безпеки</a></li>
+                <li><a href="/novel-secret-of-tonce/morning">Глава IX. Ранок</a></li>
             </ul>
         </tile>
     </tiles>
