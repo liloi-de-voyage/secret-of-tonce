@@ -30,7 +30,7 @@
             <p>- Наш шатл вилітає через декілька годин, а ми ще голі. Швидко їмо удон, вдягаємося і чимчикуємо туди - а то вони полетять без нас.</p>
 
 
-            <!--            <a href="/novel-secret-of-tonce/hotel-room">Далі</a>-->
+            <a href="/novel-secret-of-tonce/shuttle">Далі</a>
         </tile>
     </tiles>
 </story>

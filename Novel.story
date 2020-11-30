@@ -14,6 +14,7 @@
                 <li><a href="/novel-secret-of-tonce/safety-engineering">Глава VII. Техніка безпеки</a></li>
                 <li><a href="/novel-secret-of-tonce/cyborg">Глава VIII. Техніка безпеки</a></li>
                 <li><a href="/novel-secret-of-tonce/morning">Глава IX. Ранок</a></li>
+                <li><a href="/novel-secret-of-tonce/shuttle">Глава X. Шатл</a></li>
             </ul>
         </tile>
     </tiles>
