@@ -5,17 +5,18 @@
         <tile id="general" type="html">
             <h1>Загадка Тонса</h1>
             <ul>
-                <li><a href="/novel-secret-of-tonce/road">Глава I. Дорога</a></li>
-                <li><a href="/novel-secret-of-tonce/cottage">Глава II. Котедж Вчителя</a></li>
-                <li><a href="/novel-secret-of-tonce/library">Глава III. Бібліотека</a></li>
-                <li><a href="/novel-secret-of-tonce/hotel-room">Глава IV. Кімната готелю</a></li>
-                <li><a href="/novel-secret-of-tonce/cafe">Глава V. Кафе</a></li>
-                <li><a href="/novel-secret-of-tonce/questionnaire">Глава VI. Анкета</a></li>
-                <li><a href="/novel-secret-of-tonce/safety-engineering">Глава VII. Техніка безпеки</a></li>
-                <li><a href="/novel-secret-of-tonce/cyborg">Глава VIII. Техніка безпеки</a></li>
-                <li><a href="/novel-secret-of-tonce/morning">Глава IX. Ранок</a></li>
-                <li><a href="/novel-secret-of-tonce/shuttle">Глава X. Шатл</a></li>
-                <li><a href="/novel-secret-of-tonce/above-karmans-line">Глава XI. Над лінією Кармана</a></li>
+                <li><a href="/novel-secret-of-tonce/road">I. Дорога</a></li>
+                <li><a href="/novel-secret-of-tonce/cottage">II. Котедж Вчителя</a></li>
+                <li><a href="/novel-secret-of-tonce/library">III. Бібліотека</a></li>
+                <li><a href="/novel-secret-of-tonce/hotel-room">IV. Кімната готелю</a></li>
+                <li><a href="/novel-secret-of-tonce/cafe">V. Кафе</a></li>
+                <li><a href="/novel-secret-of-tonce/questionnaire">VI. Анкета</a></li>
+                <li><a href="/novel-secret-of-tonce/safety-engineering">VII. Техніка безпеки</a></li>
+                <li><a href="/novel-secret-of-tonce/cyborg">VIII. Техніка безпеки</a></li>
+                <li><a href="/novel-secret-of-tonce/morning">IX. Ранок</a></li>
+                <li><a href="/novel-secret-of-tonce/shuttle">X. Шатл</a></li>
+                <li><a href="/novel-secret-of-tonce/above-karmans-line">XI. Над лінією Кармана</a></li>
+                <li><a href="/novel-secret-of-tonce/holiday">XII. Вихідний</a></li>
             </ul>
         </tile>
     </tiles>
