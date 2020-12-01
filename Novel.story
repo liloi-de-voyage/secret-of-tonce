@@ -15,6 +15,7 @@
                 <li><a href="/novel-secret-of-tonce/cyborg">Глава VIII. Техніка безпеки</a></li>
                 <li><a href="/novel-secret-of-tonce/morning">Глава IX. Ранок</a></li>
                 <li><a href="/novel-secret-of-tonce/shuttle">Глава X. Шатл</a></li>
+                <li><a href="/novel-secret-of-tonce/above-karmans-line">Глава XI. Над лінією Кармана</a></li>
             </ul>
         </tile>
     </tiles>

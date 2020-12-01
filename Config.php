@@ -15,5 +15,6 @@ return [
         'cyborg' => __DIR__ . '/Cyborg/Chapter.story',
         'morning' => __DIR__ . '/Morning/Chapter.story',
         'shuttle' => __DIR__ . '/Shuttle/Chapter.story',
+        'above-karmans-line' => __DIR__ . '/AboveKarmansLine/Chapter.story',
     ]
 ];

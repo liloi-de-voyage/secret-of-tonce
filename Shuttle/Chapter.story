@@ -38,7 +38,7 @@
             <p>Хтось почав підніматися по трапу.</p>
             <p>- Ну що ж, почали.</p>
 
-            <!--            <a href="/novel-secret-of-tonce/hotel-room">Далі</a>-->
+            <a href="/novel-secret-of-tonce/above-karmans-line">Далі</a>
         </tile>
     </tiles>
 </story>
