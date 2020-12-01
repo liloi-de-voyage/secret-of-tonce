@@ -18,5 +18,6 @@ return [
         'above-karmans-line' => __DIR__ . '/AboveKarmansLine/Chapter.story',
         'holiday' => __DIR__ . '/Holiday/Chapter.story',
         'hawking' => __DIR__ . '/Hawking/Chapter.story',
+        'my-day' => __DIR__ . '/MyDay/Chapter.story',
     ]
 ];

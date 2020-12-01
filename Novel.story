@@ -18,6 +18,7 @@
                 <li><a href="/novel-secret-of-tonce/above-karmans-line">XI. Над лінією Кармана</a></li>
                 <li><a href="/novel-secret-of-tonce/holiday">XII. Вихідний</a></li>
                 <li><a href="/novel-secret-of-tonce/hawking">XIII. Хокінґ</a></li>
+                <li><a href="/novel-secret-of-tonce/my-day">XIV. Мій день</a></li>
             </ul>
         </tile>
     </tiles>

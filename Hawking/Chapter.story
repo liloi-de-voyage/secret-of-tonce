@@ -42,7 +42,7 @@
             <p>- Слухаюся.</p>
             <p>Капітан відключився, а я почимчикував у медичний відсік.</p>
 
-            <!--            <a href="/novel-secret-of-tonce/hotel-room">Далі</a>-->
+            <a href="/novel-secret-of-tonce/my-day">Далі</a>
         </tile>
     </tiles>
 </story>
