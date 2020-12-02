@@ -20,5 +20,6 @@ return [
         'hawking' => __DIR__ . '/Hawking/Chapter.story',
         'my-day' => __DIR__ . '/MyDay/Chapter.story',
         'observation-room' => __DIR__ . '/ObservationRoom/Chapter.story',
+        'moon' => __DIR__ . '/Moon/Chapter.story',
     ]
 ];

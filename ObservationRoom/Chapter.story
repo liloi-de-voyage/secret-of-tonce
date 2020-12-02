@@ -16,7 +16,7 @@
             <p>Якась особа пролетіла по коридору. Я прошепотів:</p>
             <p>- Так, забираймося звідси, бо Хокінґ вийде на орбіту з нами на гауптвахті.</p>
 
-            <!--            <a href="/novel-secret-of-tonce/hotel-room">Далі</a>-->
+            <a href="/novel-secret-of-tonce/observation-room">Далі</a>
         </tile>
     </tiles>
 </story>
