@@ -21,6 +21,7 @@
                 <li><a href="/novel-secret-of-tonce/my-day">XIV. Мій день</a></li>
                 <li><a href="/novel-secret-of-tonce/observation-room">XV. Оглядова кімната</a></li>
                 <li><a href="/novel-secret-of-tonce/moon">XVI. Місяць</a></li>
+                <li><a href="/novel-secret-of-tonce/labyrinth">XVII. Лабіринт</a></li>
             </ul>
         </tile>
     </tiles>
