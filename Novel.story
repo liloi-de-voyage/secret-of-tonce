@@ -27,6 +27,7 @@
                 <li><a href="/novel-secret-of-tonce/midnight">XIX. Північна зозмова</a></li>
                 <li><a href="/novel-secret-of-tonce/med-block">XX. Медичний блок</a></li>
                 <li><a href="/novel-secret-of-tonce/power-plant">XXI. Електростанція</a></li>
+                <li><a href="/novel-secret-of-tonce/supper">XXII. Святкова вечеря</a></li>
             </ul>
         </tile>
     </tiles>
