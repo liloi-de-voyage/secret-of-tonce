@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<story title="XXI. Електростанція" start="general">
+<story title="XXII. Святкова вечеря" start="general">
     <info />
     <tiles>
         <tile id="general" type="html">
-            <h3><a href="/novel-secret-of-tonce">XXI. Електростанція</a></h3>
+            <h3><a href="/novel-secret-of-tonce">XXII. Святкова вечеря</a></h3>
 
             <a href="/novel-secret-of-tonce/med-block">Назад</a>
 

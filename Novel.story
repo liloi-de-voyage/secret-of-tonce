@@ -24,7 +24,7 @@
                 <li><a href="/novel-secret-of-tonce/labyrinth">XVII. Лабіринт</a></li>
                 <li><a href="/novel-secret-of-tonce/quest">XVII. Квест</a></li>
                 <li><a href="/novel-secret-of-tonce/reports">XVIII. Доповіді</a></li>
-                <li><a href="/novel-secret-of-tonce/midnight">XIX. Північна зозмова</a></li>
+                <li><a href="/novel-secret-of-tonce/midnight">XIX. Північна розмова</a></li>
                 <li><a href="/novel-secret-of-tonce/med-block">XX. Медичний блок</a></li>
                 <li><a href="/novel-secret-of-tonce/power-plant">XXI. Електростанція</a></li>
                 <li><a href="/novel-secret-of-tonce/supper">XXII. Святкова вечеря</a></li>

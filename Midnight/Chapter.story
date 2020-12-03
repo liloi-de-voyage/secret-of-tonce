@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<story title="XIX. Північна зозмова" start="general">
+<story title="XIX. Північна розмова" start="general">
     <info />
     <tiles>
         <tile id="general" type="html">
-            <h3><a href="/novel-secret-of-tonce">XIX. Північна зозмова</a></h3>
+            <h3><a href="/novel-secret-of-tonce">XIX. Північна розмова</a></h3>
 
             <a href="/novel-secret-of-tonce/reports">Назад</a>
 

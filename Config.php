@@ -26,6 +26,7 @@ return [
         'reports' => __DIR__ . '/Reports/Chapter.story',
         'midnight' => __DIR__ . '/Midnight/Chapter.story',
         'med-block' => __DIR__ . '/MedBlock/Chapter.story',
+        'power-plant' => __DIR__ . '/PowerPlant/Chapter.story',
         'supper' => __DIR__ . '/Supper/Chapter.story',
         'bologna' => __DIR__ . '/Bologna/Chapter.story',
     ]
