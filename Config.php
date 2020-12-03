@@ -25,5 +25,6 @@ return [
         'quest' => __DIR__ . '/Quest/Chapter.story',
         'reports' => __DIR__ . '/Reports/Chapter.story',
         'midnight' => __DIR__ . '/Midnight/Chapter.story',
+        'med-block' => __DIR__ . '/MedBlock/Chapter.story',
     ]
 ];
