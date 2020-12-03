@@ -28,6 +28,7 @@
                 <li><a href="/novel-secret-of-tonce/med-block">XX. Медичний блок</a></li>
                 <li><a href="/novel-secret-of-tonce/power-plant">XXI. Електростанція</a></li>
                 <li><a href="/novel-secret-of-tonce/supper">XXII. Святкова вечеря</a></li>
+                <li><a href="/novel-secret-of-tonce/bologna">XXIII. Болонья</a></li>
             </ul>
         </tile>
     </tiles>
