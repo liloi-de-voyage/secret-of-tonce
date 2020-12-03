@@ -24,6 +24,7 @@
                 <li><a href="/novel-secret-of-tonce/labyrinth">XVII. Лабіринт</a></li>
                 <li><a href="/novel-secret-of-tonce/quest">XVII. Квест</a></li>
                 <li><a href="/novel-secret-of-tonce/reports">XVIII. Доповіді</a></li>
+                <li><a href="/novel-secret-of-tonce/midnight">XIX. Північна зозмова</a></li>
             </ul>
         </tile>
     </tiles>
