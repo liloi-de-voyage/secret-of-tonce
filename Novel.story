@@ -23,6 +23,7 @@
                 <li><a href="/novel-secret-of-tonce/moon">XVI. Місяць</a></li>
                 <li><a href="/novel-secret-of-tonce/labyrinth">XVII. Лабіринт</a></li>
                 <li><a href="/novel-secret-of-tonce/quest">XVII. Квест</a></li>
+                <li><a href="/novel-secret-of-tonce/reports">XVIII. Доповіді</a></li>
             </ul>
         </tile>
     </tiles>

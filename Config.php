@@ -23,5 +23,6 @@ return [
         'moon' => __DIR__ . '/Moon/Chapter.story',
         'labyrinth' => __DIR__ . '/Labyrinth/Chapter.story',
         'quest' => __DIR__ . '/Quest/Chapter.story',
+        'reports' => __DIR__ . '/Reports/Chapter.story',
     ]
 ];
