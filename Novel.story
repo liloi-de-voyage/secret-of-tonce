@@ -18,7 +18,14 @@
                 <li><a href="/novel-secret-of-tonce/above-karmans-line">XI. Над лінією Кармана</a></li>
                 <li><a href="/novel-secret-of-tonce/holiday">XII. Вихідний</a></li>
                 <li><a href="/novel-secret-of-tonce/hawking">XIII. Хокінґ</a></li>
-                <li><a href="/novel-secret-of-tonce/my-day">XIV. Мій день</a></li>
+
+                <li><a href="/novel-secret-of-tonce/cabin">Каюта</a></li>
+                <li><a href="/novel-secret-of-tonce/labs">Лабораторії</a></li>
+                <li><a href="/novel-secret-of-tonce/computer-hall">Комп'ютерний зал</a></li>
+                <li><a href="/novel-secret-of-tonce/canteen">Їдальня</a></li>
+                <li><a href="/novel-secret-of-tonce/gym">Спортивний зал</a></li>
+                <li><a href="/novel-secret-of-tonce/drill">Навчання</a></li>
+
                 <li><a href="/novel-secret-of-tonce/observation-room">XV. Оглядова кімната</a></li>
                 <li><a href="/novel-secret-of-tonce/moon">XVI. Місяць</a></li>
                 <li><a href="/novel-secret-of-tonce/labyrinth">XVII. Лабіринт</a></li>

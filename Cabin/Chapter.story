@@ -3,7 +3,7 @@
     <info />
     <tiles>
         <tile id="general" type="html">
-            <h3><a href="/novel-secret-of-tonce">XIV. Мій день</a></h3>
+            <h3><a href="/novel-secret-of-tonce">Каюта</a></h3>
 
             <a href="/novel-secret-of-tonce/hawking">Назад</a>
 
