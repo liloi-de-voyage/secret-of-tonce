@@ -5,7 +5,7 @@
         <tile id="general" type="html">
             <h3><a href="/novel-secret-of-tonce">Лабораторії</a></h3>
 
-            <a href="/novel-secret-of-tonce/hawking">Назад</a>
+            <a href="/novel-secret-of-tonce/cabin">Назад</a>
 
             <p>Лаби займали цілий рівень. Коли я туди зайшов, мені в носа вдарив запах свіжозваренної кави; три робітники встановлювали портативний електронний мікроскоп. Я привітався й спитав, чи не потрібна моя допомога.</p>
             <p>- Та ні, дякуємо. Ми вже закінчуємо...</p>
@@ -19,7 +19,7 @@
             <p>- Слухаюся</p>
             <p>- Виконуй.</p>
 
-            <a href="/novel-secret-of-tonce/observation-room">Далі</a>
+            <a href="/novel-secret-of-tonce/computer-hall">Далі</a>
         </tile>
     </tiles>
 </story>
