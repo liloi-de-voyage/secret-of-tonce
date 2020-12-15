@@ -21,7 +21,9 @@
                 <li><a href="/novel-secret-of-tonce/uniform">Уніформа</a></li>
                 <li><a href="/novel-secret-of-tonce/contract">Контракт</a></li>
 
-                <li><a href="/novel-secret-of-tonce/hawking">XIII. Хокінґ</a></li>
+                <li><a href="/novel-secret-of-tonce/hawking">Хокінґ</a></li>
+                <li><a href="/novel-secret-of-tonce/briefing">Брифінг</a></li>
+                <li><a href="/novel-secret-of-tonce/terminal">Термінал</a></li>
 
                 <li><a href="/novel-secret-of-tonce/cabin">Каюта</a></li>
                 <li><a href="/novel-secret-of-tonce/labs">Лабораторії</a></li>

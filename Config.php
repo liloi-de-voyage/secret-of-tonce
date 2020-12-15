@@ -19,7 +19,11 @@ return [
         'holiday' => __DIR__ . '/Holiday/Chapter.story',
         'uniform' => __DIR__ . '/Uniform/Chapter.story',
         'contract' => __DIR__ . '/Contract/Chapter.story',
+
         'hawking' => __DIR__ . '/Hawking/Chapter.story',
+        'briefing' => __DIR__ . '/Briefing/Chapter.story',
+        'terminal' => __DIR__ . '/Terminal/Chapter.story',
+        
         'cabin' => __DIR__ . '/Cabin/Chapter.story',
         'labs' => __DIR__ . '/Labs/Chapter.story',
         'computer-hall' => __DIR__ . '/ComputerHall/Chapter.story',
