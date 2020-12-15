@@ -16,7 +16,11 @@
                 <li><a href="/novel-secret-of-tonce/morning">IX. Ранок</a></li>
                 <li><a href="/novel-secret-of-tonce/shuttle">X. Шатл</a></li>
                 <li><a href="/novel-secret-of-tonce/above-karmans-line">XI. Над лінією Кармана</a></li>
-                <li><a href="/novel-secret-of-tonce/holiday">XII. Вихідний</a></li>
+
+                <li><a href="/novel-secret-of-tonce/holiday">Вихідний</a></li>
+                <li><a href="/novel-secret-of-tonce/uniform">Уніформа</a></li>
+                <li><a href="/novel-secret-of-tonce/contract">Контракт</a></li>
+
                 <li><a href="/novel-secret-of-tonce/hawking">XIII. Хокінґ</a></li>
 
                 <li><a href="/novel-secret-of-tonce/cabin">Каюта</a></li>
