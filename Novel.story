@@ -12,7 +12,7 @@
                 <li><a href="/novel-secret-of-tonce/cafe">Кафе</a></li>
                 <li><a href="/novel-secret-of-tonce/questionnaire">Анкета</a></li>
                 <li><a href="/novel-secret-of-tonce/safety-engineering">Техніка безпеки</a></li>
-                <li><a href="/novel-secret-of-tonce/cyborg">Техніка безпеки</a></li>
+                <li><a href="/novel-secret-of-tonce/cyborg">Кіборг</a></li>
                 <li><a href="/novel-secret-of-tonce/morning">Ранок</a></li>
                 <li><a href="/novel-secret-of-tonce/shuttle">Шатл</a></li>
                 <li><a href="/novel-secret-of-tonce/above-karmans-line">Над лінією Кармана</a></li>
