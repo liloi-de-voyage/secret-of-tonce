@@ -1,14 +1,22 @@
 #!/usr/bin/php
 <?php
 
-$stories = [
-];
+$output = [];
 
-$output = explode("\n", file_get_contents(__DIR__ . '/Template.xml'));
+$rows = explode("\n", file_get_contents(__DIR__ . '/Template.xml'));
 
-foreach ($stories as $story)
+foreach ($rows as $row)
 {
-    $output = array_merge($output, explode("\n", file_get_contents($story)));
+    if(strpos($row, '<load') != false)
+    {
+        list(,$filename) = explode('"', $row);
+        $list = explode("\n", file_get_contents(__DIR__ . $filename));
+        array_shift($list);
+        $output = array_merge($output, $list);
+        continue;
+    }
+
+    $output[] = $row;
 }
 
 file_put_contents(__DIR__ . '/SecretOfTonce.fb2', implode("\n", $output));

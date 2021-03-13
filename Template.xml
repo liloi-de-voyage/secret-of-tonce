@@ -15,9 +15,13 @@
     </description>
     <body>
         <section>
+
             <title>
-                Загадка Тонсу
+                <p>Загадка Тонсу</p>
             </title>
+
+            <load file="/01-Road/Story.xml" />
+
         </section>
     </body>
 </FictionBook>
