@@ -22,6 +22,8 @@
 
             <load file="/01-Road/Story.xml" />
 
+            <load file="/02-Cottage/Story.xml" />
+
         </section>
     </body>
 </FictionBook>
