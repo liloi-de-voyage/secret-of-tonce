@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+    <description>
+        <title-info>
+            <author>
+                <first-name>Антон</first-name>
+                <last-name>Москаленко</last-name>
+            </author>
+            <book-title>Загадка Тонсу</book-title>
+            <lang>ua</lang>
+        </title-info>
+        <document-info>
+            <version>1.0</version>
+        </document-info>
+    </description>
+    <body>
+        <section>
+            <title>
+                Загадка Тонсу
+            </title>
+        </section>
+    </body>
+</FictionBook>
