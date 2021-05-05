@@ -29,6 +29,7 @@ function compiler($inputFilename): array
 }
 
 $outputLines = compiler($inputFilename);
+$outputLines[] = 'v0.8.0 [' . date('Y-m-d H:i:s') . ']';
 echo "Done.\n\n";
 
 file_put_contents($outputFilename, implode("\n", $outputLines));
