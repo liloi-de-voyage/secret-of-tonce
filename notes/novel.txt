@@ -8,6 +8,14 @@
 
 <note file='notes/lectures/chapter.txt' />
 
+<note file='notes/cyborg/chapter.txt' />
+
+<note file='notes/above-the-karmans-line/chapter.txt' />
+
+<note file='notes/holiday/chapter.txt' />
+
+<note file='notes/hawking/chapter.txt' />
+
 ---
 Антон Антон Млоскаленко
 Всі права захищені
