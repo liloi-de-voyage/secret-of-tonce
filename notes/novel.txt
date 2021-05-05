@@ -2,6 +2,12 @@
 
 <note file='notes/road/chapter.txt' />
 
+<note file='notes/teacher/chapter.txt' />
+
+<note file='notes/rookies/chapter.txt' />
+
+<note file='notes/lectures/chapter.txt' />
+
 ---
 Антон Антон Млоскаленко
 Всі права захищені
