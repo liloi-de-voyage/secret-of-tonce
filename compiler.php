@@ -14,6 +14,14 @@ function compiler($inputFilename): array
     $outputLines = [];
 
     foreach($inputLines as $line) {
+
+        if(strpos($line, "<note file=") !== false) {
+            list(,$fn) = explode("'", $line);
+            $inputNoteFilename = __DIR__ . '/' . $fn;
+            $outputLines = array_merge($outputLines, compiler($inputNoteFilename));
+            continue;
+        }
+
         $outputLines[] = $line;
     }
 
