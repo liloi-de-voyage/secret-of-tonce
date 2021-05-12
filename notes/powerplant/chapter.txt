@@ -1,0 +1,10 @@
+Електростанція
+
+<note file='notes/powerplant/morning.txt' />
+
+<note file='notes/powerplant/blast.txt' />
+<note file='notes/powerplant/building.txt' />
+<note file='notes/powerplant/nuclear.txt' />
+
+<note file='notes/powerplant/supper.txt' />
+<note file='notes/powerplant/leaving.txt' />

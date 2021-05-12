@@ -1,0 +1,7 @@
+Кіборг
+
+<note file='notes/cyborg/cabinet.txt' />
+<note file='notes/cyborg/doctor.txt' />
+<note file='notes/cyborg/contract.txt' />
+<note file='notes/cyborg/orthosis.txt' />
+<note file='notes/cyborg/chocolate.txt' />
