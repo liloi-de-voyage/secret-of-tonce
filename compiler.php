@@ -30,7 +30,6 @@ function compiler($inputFilename, &$count): array
 }
 
 $outputLines = compiler($inputFilename, $count);
-$outputLines[] = 'v0.8.0';
 echo "Done.\n\n";
 
 file_put_contents($outputFilename, implode("\n", $outputLines));
