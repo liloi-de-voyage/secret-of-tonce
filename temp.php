@@ -8,10 +8,16 @@ function getDirContents($dir){
         if(in_array($value, ['.', '..'])) continue;
         if(!is_dir($dir. DIRECTORY_SEPARATOR .$value)){
             $t = $dir. DIRECTORY_SEPARATOR .$value;
-            if(pathinfo($t, PATHINFO_EXTENSION) == 'txt') {
+            if(pathinfo($t, PATHINFO_EXTENSION) == 'tpl') {
 //                var_dump(__LINE__,"a");
-                $t = str_replace('.txt', '.tpl', $t);
-                rename($dir. DIRECTORY_SEPARATOR .$value, $t);
+                $l = explode("\n", file_get_contents($dir. DIRECTORY_SEPARATOR .$value));
+                foreach($l as &$a) {
+                    if(strpos($a, '<p>') === 0) {
+                        $a = $a . '</p>';
+                    }
+                }
+                unset($a);
+                file_put_contents($dir. DIRECTORY_SEPARATOR .$value, implode("\n", $l));
             }
         } else if(is_dir($dir. DIRECTORY_SEPARATOR .$value)) {
             getDirContents($dir. DIRECTORY_SEPARATOR .$value);
