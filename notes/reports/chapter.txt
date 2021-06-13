@@ -1,7 +1,7 @@
 Доповіді
 
-<note file='notes/reports/carpet.txt' />
+<note file='notes/reports/carpet.tpl' />
 
-<note file='notes/reports/medlab.txt' />
+<note file='notes/reports/medlab.tpl' />
 
-<note file='notes/reports/midnight.txt' />
+<note file='notes/reports/midnight.tpl' />

@@ -1,7 +1,7 @@
 Вихідний
 
-<note file='notes/holiday/morning.txt' />
+<note file='notes/holiday/morning.tpl' />
 
-<note file='notes/holiday/store.txt' />
+<note file='notes/holiday/store.tpl' />
 
-<note file='notes/holiday/canteen.txt' />
+<note file='notes/holiday/canteen.tpl' />

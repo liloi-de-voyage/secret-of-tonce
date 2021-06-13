@@ -1,7 +1,7 @@
 Хокінґ
 
-<note file='notes/hawking/shuttle.txt' />
+<note file='notes/hawking/shuttle.tpl' />
 
-<note file='notes/hawking/briefing.txt' />
+<note file='notes/hawking/briefing.tpl' />
 
-<note file='notes/hawking/monitor.txt' />
+<note file='notes/hawking/monitor.tpl' />

@@ -17,29 +17,29 @@
 
         <note file='notes/road/chapter.tpl' />
 
-        <note file='notes/teacher/chapter.txt' />
+        <note file='notes/teacher/chapter.tpl' />
 
-        <note file='notes/rookies/chapter.txt' />
+        <note file='notes/rookies/chapter.tpl' />
 
-        <note file='notes/lectures/chapter.txt' />
+        <note file='notes/lectures/chapter.tpl' />
 
-        <note file='notes/cyborg/chapter.txt' />
+        <note file='notes/cyborg/chapter.tpl' />
 
-        <note file='notes/above-the-karmans-line/chapter.txt' />
+        <note file='notes/above-the-karmans-line/chapter.tpl' />
 
-        <note file='notes/holiday/chapter.txt' />
+        <note file='notes/holiday/chapter.tpl' />
 
-        <note file='notes/hawking/chapter.txt' />
+        <note file='notes/hawking/chapter.tpl' />
 
-        <note file='notes/my-day/chapter.txt' />
+        <note file='notes/my-day/chapter.tpl' />
 
-        <note file='notes/moon/chapter.txt' />
+        <note file='notes/moon/chapter.tpl' />
 
-        <note file='notes/reports/chapter.txt' />
+        <note file='notes/reports/chapter.tpl' />
 
-        <note file='notes/powerplant/chapter.txt' />
+        <note file='notes/powerplant/chapter.tpl' />
 
-        <note file='notes/bologna/chapter.txt' />
+        <note file='notes/bologna/chapter.tpl' />
 
         <br/>
         <i>Автор Антон Млоскаленко &copy;</i>

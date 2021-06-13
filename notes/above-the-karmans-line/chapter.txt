@@ -1,9 +1,9 @@
 Над лінією Кармана
 
-<note file='notes/above-the-karmans-line/morning.txt' />
+<note file='notes/above-the-karmans-line/morning.tpl' />
 
-<note file='notes/above-the-karmans-line/warrick.txt' />
+<note file='notes/above-the-karmans-line/warrick.tpl' />
 
-<note file='notes/above-the-karmans-line/shuttle.txt' />
+<note file='notes/above-the-karmans-line/shuttle.tpl' />
 
-<note file='notes/above-the-karmans-line/space.txt' />
+<note file='notes/above-the-karmans-line/space.tpl' />

@@ -1,9 +1,9 @@
 Місяць
 
-<note file='notes/moon/preview.txt' />
+<note file='notes/moon/preview.tpl' />
 
-<note file='notes/moon/crater.txt' />
+<note file='notes/moon/crater.tpl' />
 
-<note file='notes/moon/cave.txt' />
-<note file='notes/moon/round.txt' />
-<note file='notes/moon/mayday.txt' />
+<note file='notes/moon/cave.tpl' />
+<note file='notes/moon/round.tpl' />
+<note file='notes/moon/mayday.tpl' />
