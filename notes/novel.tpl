@@ -2,11 +2,20 @@
     <head>
         <title>Загадка Тонса</title>
         <meta charset="utf-8"/>
+        <style>
+            p {
+                text-indent: 50px;
+            }
+
+            h1, h2 {
+                text-align: center;
+            }
+        </style>
     </head>
     <body>
         <h1>Загадка Тонса</h1>
 
-        <note file='notes/road/chapter.txt' />
+        <note file='notes/road/chapter.tpl' />
 
         <note file='notes/teacher/chapter.txt' />
 
