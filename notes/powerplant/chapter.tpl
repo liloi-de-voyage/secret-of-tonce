@@ -1,4 +1,4 @@
-Електростанція
+<h2>Електростанція</h2>
 
 <note file='notes/powerplant/morning.tpl' />
 

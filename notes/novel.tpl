@@ -42,8 +42,10 @@
         <note file='notes/bologna/chapter.tpl' />
 
         <br/>
-        <i>Автор Антон Млоскаленко &copy;</i>
-        <i>Всі права захищені</i>
-        <i>2021</i>
+        <div style="text-align: center;">
+            <i>Автор Антон Млоскаленко &copy;</i>
+            <i>Всі права захищені</i>
+            <i>2021</i>
+        </div>
     </body>
 </html>

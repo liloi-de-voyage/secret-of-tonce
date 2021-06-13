@@ -1,4 +1,4 @@
-Хокінґ
+<h2>Хокінґ</h2>
 
 <note file='notes/hawking/shuttle.tpl' />
 

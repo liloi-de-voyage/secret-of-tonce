@@ -1,4 +1,4 @@
-Доповіді
+<h2>Доповіді</h2>
 
 <note file='notes/reports/carpet.tpl' />
 

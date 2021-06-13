@@ -1,4 +1,4 @@
-Мій день
+<h2>Мій день</h2>
 
 <note file='notes/my-day/compartment.tpl' />
 

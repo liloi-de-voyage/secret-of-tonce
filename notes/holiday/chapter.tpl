@@ -1,4 +1,4 @@
-Вихідний
+<h2>Вихідний</h2>
 
 <note file='notes/holiday/morning.tpl' />
 

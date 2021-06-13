@@ -1,4 +1,4 @@
-Місяць
+<h2>Місяць</h2>
 
 <note file='notes/moon/preview.tpl' />
 
