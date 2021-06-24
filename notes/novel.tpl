@@ -5,6 +5,8 @@
         <style>
             p {
                 text-indent: 50px;
+                margin-block-start: 0px;
+                margin-block-end: 0px;
             }
 
             h1, h2 {
