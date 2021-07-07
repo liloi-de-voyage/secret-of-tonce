@@ -17,7 +17,7 @@
     <body>
         <h1>Загадка Тонса</h1>
 
-        <note file='notes/road/chapter.tpl' />
+        <note file='notes/road/_chapter.tpl' />
 
         <note file='notes/teacher/chapter.tpl' />
 
