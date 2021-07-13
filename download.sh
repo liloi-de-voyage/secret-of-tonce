@@ -1,14 +1,36 @@
 #!/usr/bin/php
 <?php
 
-$download = [
-  'secret-of-tonce.pdf' => 'http://docs.google.com/document/d/1L99lFRkNkQFMfErKJEHjzoVOVEF9G2xR5nLfEtK96AA/export?format=pdf',
-  'secret-of-tonce.docx' => 'http://docs.google.com/document/d/1L99lFRkNkQFMfErKJEHjzoVOVEF9G2xR5nLfEtK96AA/export?format=docx',
-  'secret-of-tonce.txt' => 'http://docs.google.com/document/d/1L99lFRkNkQFMfErKJEHjzoVOVEF9G2xR5nLfEtK96AA/export?format=txt',
-  'secret-of-tonce.epub' => 'http://docs.google.com/document/d/1L99lFRkNkQFMfErKJEHjzoVOVEF9G2xR5nLfEtK96AA/export?format=epub',
-];
+function commandCompile($dir) {
+    $results = [];
+    $files = scandir($dir);
 
-foreach ($download as $filename => $link) {
-  $fullFileName = __DIR__ . '/' . $filename;
-  shell_exec(sprintf('wget "%s" -O "%s"', $link, $fullFileName));
+    $dirPool = str_replace('/atoms', '/pool', $dir);
+    if(!is_dir($dirPool)) {
+        mkdir($dirPool, 0777, true);
+    }
+
+    foreach($files as $key => $value){
+        if(in_array($value, ['.git'])) {
+            continue;
+        }
+
+        $path = realpath($dir.DIRECTORY_SEPARATOR.$value);
+
+        if(!is_dir($path)) {
+            $ext = pathinfo($path, PATHINFO_EXTENSION);
+
+            if($ext!="tpl") {
+                continue;
+            }
+          $n = str_replace('.tpl','.html',$path);
+          rename($path, $n);
+        } elseif($value != "." && $value != "..") {
+            commandCompile($path);
+        }
+    }
+
+    return $results;
 }
+
+commandCompile(__DIR__ . '/notes');
