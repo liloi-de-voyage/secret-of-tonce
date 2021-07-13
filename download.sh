@@ -19,21 +19,27 @@ function commandCompile($dir) {
 
         if(!is_dir($path)) {
             $ext = pathinfo($path, PATHINFO_EXTENSION);
+            $name = pathinfo($path, PATHINFO_BASENAME);
 
             if($ext!="html") {
                 continue;
             }
 
-            $s = file_get_contents($path);
-            $n = str_replace(".tpl'",".html'",$s);
-            file_put_contents($path,$n);
+          $s = $path;
+          $s = str_replace('/drive/b/projects/secret-of-tonce', '.', $s);
+          $results[] = '<tr><td>0%</td><td>' . '<a target="_blank" href="' . $s . '">' . $name . '</a></td></tr>';
 
         } elseif($value != "." && $value != "..") {
-            commandCompile($path);
+            $results = array_merge($results, commandCompile($path));
         }
     }
 
     return $results;
 }
 
-commandCompile(__DIR__ . '/notes');
+$trs = commandCompile(__DIR__ . '/notes');
+die(var_dump(implode("\n", $trs)));
+
+$s = file_get_contents(__DIR__ . '/map.tpl');
+$n = str_replace("<content/>",implode("\n", $trs),$s);
+file_put_contents(__DIR__ . '/map.html',$n);
