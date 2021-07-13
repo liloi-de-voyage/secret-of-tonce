@@ -20,11 +20,14 @@ function commandCompile($dir) {
         if(!is_dir($path)) {
             $ext = pathinfo($path, PATHINFO_EXTENSION);
 
-            if($ext!="tpl") {
+            if($ext!="html") {
                 continue;
             }
-          $n = str_replace('.tpl','.html',$path);
-          rename($path, $n);
+
+            $s = file_get_contents($path);
+            $n = str_replace(".tpl'",".html'",$s);
+            file_put_contents($path,$n);
+
         } elseif($value != "." && $value != "..") {
             commandCompile($path);
         }
