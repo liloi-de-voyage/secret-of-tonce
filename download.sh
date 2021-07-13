@@ -1,7 +1,7 @@
 #!/usr/bin/php
 <?php
 
-function commandCompile($dir) {
+function commandCompile($dir, $tab='') {
     $results = [];
     $files = scandir($dir);
 
@@ -27,10 +27,10 @@ function commandCompile($dir) {
 
           $s = $path;
           $s = str_replace('/drive/b/projects/secret-of-tonce', '.', $s);
-          $results[] = '<tr><td>0%</td><td>' . '<a target="_blank" href="' . $s . '">' . $name . '</a></td></tr>';
+          $results[] = '<tr><td>0%</td><td>' . $tab . '<a target="_blank" href="' . $s . '">' . $name . '</a></td></tr>';
 
         } elseif($value != "." && $value != "..") {
-            $results = array_merge($results, commandCompile($path));
+            $results = array_merge($results, commandCompile($path, $tab . '&nbsp;&nbsp;&nbsp;&nbsp;'));
         }
     }
 
@@ -38,7 +38,7 @@ function commandCompile($dir) {
 }
 
 $trs = commandCompile(__DIR__ . '/notes');
-die(var_dump(implode("\n", $trs)));
+#die(var_dump(implode("\n", $trs)));
 
 $s = file_get_contents(__DIR__ . '/map.tpl');
 $n = str_replace("<content/>",implode("\n", $trs),$s);
